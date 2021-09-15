@@ -1,0 +1,2 @@
+# systemanalysisdesign
+Alfa Flooring Company is a growing company that is trying to better manage the interactions with both current and potential customers and sales associates. The company wants to build a single platform for all the customer data in order to facilitate stronger customer relationships. Alfa Flooring’s resolution to this problem is to create a customer relations application to track customers.
